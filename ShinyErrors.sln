@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{12385880-6AA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinyErrors", "src\ShinyErrors\ShinyErrors.csproj", "{6AAA4059-B11C-454B-994E-4213888303AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinyErrors.Tests", "src\ShinyErrors.Tests\ShinyErrors.Tests.csproj", "{842C5F72-B27D-4FE2-8C2F-5F9F185EE784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +22,13 @@ Global
 		{6AAA4059-B11C-454B-994E-4213888303AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AAA4059-B11C-454B-994E-4213888303AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AAA4059-B11C-454B-994E-4213888303AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842C5F72-B27D-4FE2-8C2F-5F9F185EE784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842C5F72-B27D-4FE2-8C2F-5F9F185EE784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842C5F72-B27D-4FE2-8C2F-5F9F185EE784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842C5F72-B27D-4FE2-8C2F-5F9F185EE784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6AAA4059-B11C-454B-994E-4213888303AD} = {12385880-6AA6-41F4-8023-4CA69ED4ECA1}
+		{842C5F72-B27D-4FE2-8C2F-5F9F185EE784} = {12385880-6AA6-41F4-8023-4CA69ED4ECA1}
 	EndGlobalSection
 EndGlobal
