@@ -1,7 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PackageId>ShinyErrors</PackageId>
+  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  <Descriptio>A package to implement the idea of errors as values in C#.</Description>
   <Version>1.0.0</Version>
   <Authors>Lucas Renato</Authors>
+  <Tags>error;exception;</Tags>
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
