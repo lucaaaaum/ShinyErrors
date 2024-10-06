@@ -1,8 +1,8 @@
-using ShinyErrors.Interfaces;
-
 namespace ShinyErrors;
 
-public class Error : IError
+public class Error
 {
     public string Description { get; init; }
+
+    public Error(string description) => Description = description;
 }
