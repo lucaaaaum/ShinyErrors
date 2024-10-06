@@ -1,4 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PackageId>ShinyErrors</PackageId>
+  <Version>1.0.0</Version>
+  <Authors>Lucas Renato</Authors>
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
